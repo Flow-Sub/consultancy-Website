@@ -9,28 +9,28 @@ const CountryTabs = ({ activeCountry, onCountryChange }) => {
       flag: '🇬🇧',
       highlight: 'Post-Brexit Opportunities',
       color: 'border-red-500 text-red-600 bg-red-50'
-    },
-    {
-      code: 'canada',
-      name: 'Canada',
-      flag: '🇨🇦',
-      highlight: 'Provincial Nominee Programs',
-      color: 'border-red-600 text-red-700 bg-red-50'
-    },
-    {
-      code: 'australia',
-      name: 'Australia',
-      flag: '🇦🇺',
-      highlight: 'Work While Study',
-      color: 'border-blue-500 text-blue-600 bg-blue-50'
-    },
-    {
-      code: 'newzealand',
-      name: 'New Zealand',
-      flag: '🇳🇿',
-      highlight: 'Post-Study Work Rights',
-      color: 'border-green-500 text-green-600 bg-green-50'
     }
+    // {
+    //   code: 'canada',
+    //   name: 'Canada',
+    //   flag: '🇨🇦',
+    //   highlight: 'Provincial Nominee Programs',
+    //   color: 'border-red-600 text-red-700 bg-red-50'
+    // },
+    // {
+    //   code: 'australia',
+    //   name: 'Australia',
+    //   flag: '🇦🇺',
+    //   highlight: 'Work While Study',
+    //   color: 'border-blue-500 text-blue-600 bg-blue-50'
+    // },
+    // {
+    //   code: 'newzealand',
+    //   name: 'New Zealand',
+    //   flag: '🇳🇿',
+    //   highlight: 'Post-Study Work Rights',
+    //   color: 'border-green-500 text-green-600 bg-green-50'
+    // }
   ];
 
   return (

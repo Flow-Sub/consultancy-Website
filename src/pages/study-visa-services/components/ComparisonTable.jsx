@@ -231,7 +231,7 @@ const ComparisonTable = () => {
             iconName="Phone"
             iconPosition="left"
           >
-            Call Now: +92-321-6935574
+            Call Now: +44 7586 988198
           </Button>
         </div>
       </div>

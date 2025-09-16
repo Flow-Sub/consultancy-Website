@@ -162,7 +162,7 @@ const StudyVisaServices = () => {
                   iconName="Phone"
                   iconPosition="left"
                 >
-                  Call: +92-321-6935574
+                  Call: +44 7586 988198
                 </Button>
                 <Button
                   variant="outline"
@@ -254,7 +254,7 @@ const StudyVisaServices = () => {
               <div className="space-y-2 text-sm text-gray-400">
                 <div className="flex items-center space-x-2">
                   <Icon name="Phone" size={14} />
-                  <span>+92-321-6935574</span>
+                  <span>+44 7586 988198</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="Mail" size={14} />
